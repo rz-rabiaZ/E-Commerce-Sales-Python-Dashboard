@@ -36,21 +36,3 @@ After cleaning and exploring the underlying dataset, here are the major business
     *   Pie chart mapping **Sales by Category**.
     *   Donut chart illustrating **Payment Method Distribution**.
     *   Bar chart displaying the **Top 5 Selling Products**.
-
----
-
-## 🚀 How to Run Locally
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/rz-rabiaZ/E-Commerce-Sales-Python-Dashboard.git](https://github.com/rz-rabiaZ/E-Commerce-Sales-Python-Dashboard.git)
-    cd E-Commerce-Sales-Python-Dashboard
-    ```
-2.  **Install the dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Run the Streamlit application:**
-    ```bash
-    streamlit run E-Project_2.py
-    ```
